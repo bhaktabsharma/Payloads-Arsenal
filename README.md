@@ -6,7 +6,7 @@ A fast, offline, browser-based payload reference tool for web application securi
 
 ## 🌐 Live Demo
 
-> **https://YOUR-USERNAME.github.io/payload-arsenal/**
+> **https://bhaktabsharma.github.io/Payloads-Arsenal/**
 
 *(Replace with your actual GitHub Pages URL after deployment)*
 
